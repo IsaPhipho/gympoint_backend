@@ -1,4 +1,4 @@
-![] (https://github.com/Rocketseat/bootcamp-gostack-desafio-02/blob/master/.github/logo.png)
+![](https://github.com/Rocketseat/bootcamp-gostack-desafio-02/blob/master/.github/logo.png)
 
 - Node.js, Express;
 - Sucrase, Nodemon;
