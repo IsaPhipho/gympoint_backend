@@ -5,16 +5,16 @@
   Desafio 2: Gympoint, o início
 </h3>
 
-## :muscle: Sobre o desafio:
+### :muscle: Sobre o desafio:
 
 Desenvolvimento do app **Gympoint**, um gerenciador de academia, em [Node.js](https://nodejs.org/en/), utilizando [Express](https://expressjs.com/).
 
-## :muscle: Funcionalidades:
+### :muscle: Funcionalidades:
 
 - Autenticação e validação de usuário-administrador
 - Cadastro e atualização de alunos
 
-## :muscle: Dependências / Ferramentas utilizadas:
+### :muscle: Dependências / Ferramentas utilizadas:
 
 - Sucrase, Nodemon;
 - Docker, PostSQL (Postbird);
@@ -24,6 +24,6 @@ Desenvolvimento do app **Gympoint**, um gerenciador de academia, em [Node.js](ht
 - bcrypt.js, JWT;
 - Yup.
 
-## :muscle: Mais sobre o projeto:
+### :muscle: Mais sobre o projeto:
 
 [Rocketseat - Bootcamp GoStack - Desafio 02](https://github.com/Rocketseat/bootcamp-gostack-desafio-02/blob/master/README.md#desafio-02-iniciando-aplica%C3%A7%C3%A3o)
