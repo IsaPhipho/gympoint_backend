@@ -7,12 +7,12 @@
 
 ## :muscle: Sobre o desafio:
 
-**Gympoint** - app gerenciador de academia em ![Node.js](https://nodejs.org/en/), utilizando o ![Express](https://expressjs.com/).
+Desenvolvimento do app **Gympoint**, um gerenciador de academia, em [Node.js](https://nodejs.org/en/), utilizando [Express](https://expressjs.com/).
 
 ## :muscle: Funcionalidades:
 
-#### 1. Autenticação e validação de usuário-administrador
-#### 2. Cadastro e atualização de alunos
+- Autenticação e validação de usuário-administrador
+- Cadastro e atualização de alunos
 
 ## :muscle: Dependências / Ferramentas utilizadas:
 
