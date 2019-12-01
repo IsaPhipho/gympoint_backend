@@ -11,7 +11,7 @@
 ![](https://img.shields.io/github/languages/count/IsaPhipho/gympoint_backend.svg?color=coral)
 ![](https://img.shields.io/github/languages/code-size/IsaPhipho/gympoint_backend.svg?color=tomato)
 ![](https://img.shields.io/github/repo-size/IsaPhipho/gympoint_backend.svg?color=red)
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?color=lightgrey)](https://github.com/IsaPhipho/gympoint_backend/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?color=turquoise)](https://github.com/IsaPhipho/gympoint_backend/blob/master/LICENSE)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 ### :muscle: Sobre o desafio:
